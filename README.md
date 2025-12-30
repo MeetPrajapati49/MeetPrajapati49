@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Meet Prajapati<br>💻 Software Developer right now Intern | Web & Backend Enthusiast<br>🔭 I’m currently working on real-world web applications during my internship<br>🌱 I’m currently learning REST APIs, PostgreSQL, and production-level backend development<br>🤝 I’m looking to collaborate on full-stack and API-driven projects, Python , Mern Stack Project<br>💬 Ask me about HTML, CSS, JavaScript, C#, Python , Mern stack and database fundamentals<br>⚡ Fun fact: I enjoy debugging production issues more than writing new features
+Hi, I’m Meet Prajapati<br>💻 Software Developer right now Intern @Yojnakar Innovation Pvt.Ltd | Web & Backend Enthusiast<br>🔭 I’m currently working on real-world web applications during my internship and Contributing in devlopment and designing part<br>🌱 I’m currently learning REST APIs, PostgreSQL, and production-level backend development<br>🤝 I’m looking to collaborate on full-stack and API-driven projects, Python , Mern Stack Project<br>💬 Ask me about HTML, CSS, JavaScript, C#, Python , Mern stack and database fundamentals<br>⚡ Fun fact: I enjoy debugging  issues more than writing new features
 
 
 ## 🌐 Socials:
